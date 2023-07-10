@@ -5,13 +5,13 @@
   font-family: "Lato", sans-serif;
 }
 body{
- background-color:#FFFFFF;
+ background-color:#FBFBFB;
  
 
 
 }
 html {
-  background-color: #FFFFFF;
+  background-color: #FBFBFB;
   background-image: url(https://s3.postimg.org/s1n3ji1ur/paper_fibers_2_X.png);
   box-sizing: border-box;
   font-family: "Lato", sans-serif;
@@ -51,7 +51,7 @@ html {
 }
 
 .card {
-  background-color: #FBFBFB;
+  background-color: #FFFF;
   padding: 30px;
   position: relative;
   box-shadow: 0 0 5px rgba(75, 75, 75, 0.07);
