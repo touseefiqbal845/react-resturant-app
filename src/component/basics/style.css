@@ -230,13 +230,17 @@ html {
   padding-top: 50px;
   text-align: center;
   margin: 10px;
- 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .navbar h1 {
   padding-bottom: 20px;
   text-transform: capitalize;
 }
+
 
 /** button group styles **/
 .btn-group {
